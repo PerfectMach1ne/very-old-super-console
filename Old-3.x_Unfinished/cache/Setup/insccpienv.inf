@@ -1,0 +1,8 @@
+[Version]
+signature="$Windows NT$"
+
+[DefaultInstall]
+AddReg=setup_ccpregistry
+
+[setup_ccpregistry]
+HKCU,Environment,SCIDIR,0x00020000,

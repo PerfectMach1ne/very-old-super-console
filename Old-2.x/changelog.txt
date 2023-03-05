@@ -1,0 +1,63 @@
+========1.2 Full
+	1.2.0.1 - Ostatnia ze starszych wersji, jakie siê zachowa³y.
+========2.0 Beta
+	2.0.0001 Indev - Pierwsze testy programu wywo³ujacego.
+	2.0.0002 Indev - Dodano zestaw aplikacji/komend dodatkowych i zmieniono nazwê 'vbsmake' na 'cscpvbs'. 
+Dodano plik readme, ale go jeszcze nie wype³niono.
+	2.0.0003 Indev - Poprawiono pomoc konsoli.
+	2.0.0004  Indev - Dodano modul locate i program GoRC.
+	2.0.0005 Indev - Ponownie zmieniono nazwê pliku z 'cscpvbs' na 'vbsmk'.
+	2.0.0006 Indev - Zmieniono dane wersji 'Build' z #xxx na #xxxx.
+	2.0.0007 Indev - Dodano modu³ Readme 0.1.2 i pomoc do tej komendy. Od teraz programowane w
+Batch Creator 3.0 by Merlin. Przerzucono siê równie¿ na Advanced BatToExe Converter 2.81.
+	2.0.0008 Indev - Zkonwertowano modu³ Readme do pliku EXE.
+	2.0.0009 Indev - Utworzono ikonê S-C i sprawdzono aktualizacjê programów. Dodano kilka nowych programów.
+Dodano modu³ pomocy w pliku EXE.
+	2.0.0010 Indev - Usuniêto modu³ pomocy w wersji EXE, ze wzglêdu na wadliwy kod. 
+	2.0.0011 Indev - Dodano funkcje sprawdzania plikow zapobiegajaca bledom i lekko odmieniony
+interfejs.
+	2.0.0012 Indev - Drobne poprawki systemu zapogiegania bledom.
+	2.0.0013 Indev - Ostatnie testy i dodanie modu³u EXE dla pomocy programu Super-Console.
+W tym pojawi³y siê drobne zmiany w kodzie programu.
+	2.0.0014 Indev - Pewne plany launchera CCP.
+	2.0.0015 Indev - Launcher próbny. Zmiana nazwy rdzenia.
+	2.0.0016 Indev - Launchet próbny (EXE).
+	2.0.0017 Indev - Dodano now¹ ikonê dla skrótów.
+	2.0.0018 Indev - Rozpoczêto pracê nad instalatorem i deinstalatorem (programowanie w Install Creator). Dodano
+ikonê uninstalera. Napisano plik readme. Dodano modu³ VerHistory.
+	2.0.0019 Indev - Zakoñczono prace nad instalatorem.
+	2.0.0020 Pre1 - Poprawiono kilka informacji o wersji w plikach. Pierwszy prerelease S-C 2.0 Beta.
+	2.0.0021 Pre2 - Drobne poprawki w instalatorze.
+	2.0.0022 FinRel - Poprawiono "opuszczony" plik readme oraz usuniêto irytuj¹cy start screen sprawdzania plików.
+Wreszcie pierwsza pe³na wersja 2.x programu. Dodano plik licencji.
+========2.0.1 Full
+	2.0.1.0023 Full - Wy³¹cznie poprawki w kodzie programu. Zmienio te¿ uk³ad interfejsu.
+========2.0.2 Full
+	2.0.2.0024 Beta - Dodano modu³ OpenJava (Java 6 & 7).
+	2.0.2b.0025 Full (Fix) - Poprawiono wadliwy modu³ pomocy. Pojawi³y siê drobne, ale najg³upsze poprawki.
+Zmieniono te¿ nazwy kilku wersji. Dodano modu³y EXE dla OpenJava.
+========2.1 Beta
+	2.1.0026 Beta - Od teraz plik Readme bêdzie lepiej organizowany. Usuniêto plik verhistory.exe.
+	2.1.0027 Beta - Dodano komende swver. Dodano aliasy.
+	2.1.0028 Beta - Zosta³y rozpoczête prace nad ustawieniami programu. Planowana kompatybilnoœæ z MATcSYSTEM. 
+Niewielkie zmiany w licencji.
+	2.1.0029 Beta - Prac nad konfiguracj¹ ci¹g dalszy. Dodano standardow¹ konfiguracjê S-C. Plany nowego launchera S-C.
+	2.1.0030 Beta - Ukoñczono prace nad konfiguratorem. Mozliwoœæ przegl¹dania konfiguracji. Nowy modu³: calcplus.exe (Kalkulator+).
+Rozpoczêto prace nad nowym launcherem. Zmieniono te¿ standard sprawdzania plików. Utworzono aplikacje setuj¹ce œrodowisko dla
+Super-Console i podzielono je na 2 rodzaje: Debug i Standard. Nowy uk³ad w kodzie g³ównym programu.
+	2.1.0031 Beta - Prace nad œrodowiskiem Standard i nad standardem sprawdzania plików. S-C ma nowe logo. Dodano sprawdzanie
+poprawnoœci zapisywania plików na dysku przez komendê verify.
+	2.1.0032 Beta - Aktualizacja Kalkulatora+ na wersjê 0.3.1. Nazwa Super-Console jest od teraz chroniona znakiem ©.
+========3.0 Beta
+	3.0.0033 Beta - Pierwsze przygotowania do wersji 3.0. Dodano bibliotekê pdcurses.dll.
+	3.0.0034 Beta - Kolejne prace nad rdzeniem, dodano nowe fragmenty programu (sprawdzanie plików). Dodano modu³y, ale nie wszystkie. Z czasem ma ich przybyæ wiêcej.
+Pierwsza pre-organizacja dzia³ania programu.
+	3.0.0035 Beta - Od teraz program bêdzie rozpowszechniany pod licencj¹ GNU GPL, co zezwala na modyfikowanie i rozpowszechnianie zmodyfikowanej wersji
+Super-Console bez zmieniania nazwy programu z powodu znaku Copyright dotycz¹cego nazwy 'Super-Console' oraz nadaj wymaganie publikacji zmienionej wersji wraz ze
+zmienionym kodem Ÿród³owym. Tu znajdziesz odpowiedzi na wszystkie swoje pytania co do GNU GPL: 
+http://www.gnu.org/licenses/gpl-faq.html#DoesUsingTheGPLForAProgramMakeItGNUSoftware
+=========================
+http://wielkininja.cba.pl/
+=========================
+Super-Console© 3.x
+2013 by 020-340 

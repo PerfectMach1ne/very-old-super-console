@@ -1,0 +1,9 @@
+=====Super-Console 1.x Changelog
+=====S-C Series by 020-340
+===1.2
+	1.2.0.1 Portable - Ostatnia wersja, na dodatek typu Portable jaka siê zachowa³a.
+	1.2.1.0 Portable - Drobna wersja poprawkowa, "stworzona" w czasie prac nad wersj¹ 3.0 Beta. Jest ona po to, aby ta stara wersja programu by³a mo¿liwa
+do opublicznienia.
+
+2008; 2011-2012; 2013 by 020-340
+Super-Console 1.2

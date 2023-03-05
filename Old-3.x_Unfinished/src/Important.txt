@@ -1,0 +1,10 @@
+===[PL]Wa¿ne dla programistów===
+Do kompilacji tego programu potrzebujesz nastêpuj¹cych rzeczy:
+• Biblioteka PDCurses
+• Code::Blocks C++ IDE (v12.11)
+Wszystkie pliki znajdziesz w folderze 's-c'.
+===[EN]Important for programmers===
+To compile this program you need these things:
+• PDCurses Library
+• Code::Blocks C++ IDE (v12.11)
+All files are in 's-c' folder.

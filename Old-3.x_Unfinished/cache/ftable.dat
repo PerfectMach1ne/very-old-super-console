@@ -1,0 +1,38 @@
+base64.exe
+cliptext.exe
+closewindow.exe
+crc32.exe
+cscpvbs.exe
+CSweg.exe
+download.exe
+far.exe
+fcmp.exe
+GoRC.exe
+hidewindow.exe
+isadmin.exe
+LS.exe
+maximizewindow.exe
+MD5File.exe
+moveex.exe
+procs.exe
+psservice.exe
+resizewindow.exe
+RestartIt!.exe
+setwindowtitle.exe
+SF.exe
+sha1.exe
+sizeof.exe
+sleep.exe
+Swreg.exe
+unzip.exe
+vbstoexe.exe
+WINMSG.exe
+zip.exe
+swsc.exe
+locate.com
+cb.exe
+@@skip
+// !!!DO NOT TOUCH THIS FILE!!!
+// This file is used by iniciator (ccpinit.exe) for getting file list, what must be checked in function checkfiles().
+// !!!NIE MODYFIKOWAÆ TEGO PLIKU!!!
+// Ten plik jest u¿ywany przez inicjalizator (ccpinit.exe) do pobierania listy plików, które maj¹ zostaæ sprawdzone w funkcji checkfiles().

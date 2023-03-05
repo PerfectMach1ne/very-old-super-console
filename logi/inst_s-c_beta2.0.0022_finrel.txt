@@ -1,0 +1,68 @@
+Uninstaller	29,546	65%
+base64.exe	9,157	23%
+ccp.exe	36,824	58%
+ccpcore.cmd	1,377	77%
+changelog.exe	40,284	54%
+changelog.txt	1,001	54%
+cliptext.exe	4,516	56%
+closewindow.exe	2,317	25%
+crc32.exe	3,991	23%
+cscpvbs.exe	22,177	19%
+CSweg.exe	265,965	5%
+download.exe	26,632	57%
+far.exe	12,620	16%
+fcmp.exe	132,884	51%
+GoRC.exe	30,063	46%
+hidewindow.exe	2,305	25%
+howto.exe	37,916	56%
+isadmin.exe	13,588	60%
+license.txt	231	25%
+locate.com	11,180	1%
+LS.exe	18,453	63%
+maximizewindow.exe	2,324	25%
+MD5File.exe	3,297	51%
+moveex.exe	18,909	51%
+procs.exe	15,224	8%
+psservice.exe	22,703	64%
+readme.exe	37,220	58%
+readme.txt	1,252	46%
+resizewindow.exe	2,371	34%
+RIrsl.exe	5,121	38%
+setwindowtitle.exe	2,330	25%
+SF.exe	18,391	63%
+sha1.exe	5,117	17%
+sizeof.exe	130,173	52%
+sleep.exe	120,937	50%
+Swreg.exe	0	-
+swsc.exe	38,735	6%
+unzip.exe	77,837	54%
+vbstoexe.exe	11,142	13%
+verhistory.exe	39,115	57%
+WINMSG.EXE	17,399	59%
+workbench\ccpcore.cmd	1,409	77%
+workbench\ccplaunch.cmd	59	-15%
+workbench\changelog.cmd	243	51%
+workbench\howto.cmd	1,246	55%
+workbench\icons\ccp_newicon.ico	186	96%
+workbench\icons\install_icon.ico	3,195	82%
+workbench\icons\s-c_readmeicon.ico	660	85%
+workbench\icons\s-c_rooticon.ico	201	96%
+workbench\icons\s-c_uninstalicon.ico	181	96%
+workbench\icons\template\ccp_new.bmp	166	95%
+workbench\icons\template\s-c_readme.bmp	638	80%
+workbench\icons\template\s-c_root.bmp	180	95%
+workbench\icons\template\s-c_uninstal.bmp	166	95%
+workbench\icons\template\Thumbs.db	9,388	37%
+workbench\icons\Thumbs.db	4,781	75%
+workbench\images\instLeft.bmp	1,113	99%
+workbench\images\instTop.bmp	279	98%
+workbench\images\Thumbs.db	4,937	36%
+workbench\InstallTemplate.iit	4,288	66%
+workbench\readme.cmd	215	53%
+zip.exe	66,711	48%
+
+Result :
+    Number of files: 61
+    Total uncompressed size: 2706250 bytes
+    Total compressed size: 1372866 bytes
+    Install program size: 1532051 bytes

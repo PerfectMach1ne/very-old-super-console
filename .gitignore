@@ -1,0 +1,10 @@
+*.ini
+*.zip
+*.db
+*.exe
+
+old-1.x/*.exe
+old-1.x/*.com
+old-3.x_unfinished/*.exe
+old-3.x_unfinished/*.dll
+old-3.x_unfinished/*.com

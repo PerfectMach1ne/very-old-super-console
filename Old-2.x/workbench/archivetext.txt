@@ -1,0 +1,7 @@
+Super-Console <ver> <type>
+<ver_type_info>
+Build #<build>
+Language: <lang> (A wiêc jêzyk polski, no nie?)
+Full release name: <rel>
+Copyright: <date> by 020-340
+Author: 020-340 <other_authors>
