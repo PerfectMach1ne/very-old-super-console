@@ -7,3 +7,6 @@ My first "serious coding project" in Win Batch scripts &amp; C++ that I made whe
 
 ![image](https://user-images.githubusercontent.com/75753483/236783955-f532e79d-0658-4ea6-aa76-91d5a82bffd5.png)
 
+> Wow! I have no idea what that code does.
+
+@Rynnawinx
