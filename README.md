@@ -10,3 +10,5 @@ My first "serious coding project" in Win Batch scripts &amp; C++ that I made whe
 > Wow! I have no idea what that code does.
 
 @Rynnawinx
+
+![image](https://github.com/PerfectMach1ne/veryold-super-console/assets/75753483/539124fa-01ee-49ff-8c87-3cfd21a22f28)
